@@ -101,4 +101,10 @@ Some of the main questions addressed:
 ---
 
 
+👨‍💻 Author
 
+Shivansh Srivastava
+
+📧 Email: shivanshsrivastava42@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/shivansh-srivastava-118b1a1a4)  
+🔗 [Portfolio](https://datascienceportfol.io/shivanshsrivastava)
